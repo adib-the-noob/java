@@ -21,9 +21,5 @@ public class arrayStuff {
         for (String fruite : fruites) {
             System.out.println(fruite);
         }
-
-        // more methods
-        Array.sort();
-
     }
 }
