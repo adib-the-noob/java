@@ -17,13 +17,13 @@ public class arrayStuff {
         }
         System.out.println("================================");
 
-
         // method 02
         for (String fruite : fruites) {
             System.out.println(fruite);
         }
 
         // more methods
+        Array.sort();
 
     }
 }
